@@ -1,0 +1,24 @@
+{
+  "name": "step",
+  "version": "0.0.1",
+  "description": "展现用CSS画的胖丁",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxq2019/Jigglypuff-step.git"
+  },
+  "keywords": [
+    "ord:",
+    "css",
+    "js"
+  ],
+  "author": "zhangxq7313",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxq2019/Jigglypuff-step/issues"
+  },
+  "homepage": "https://github.com/zhangxq2019/Jigglypuff-step#readme"
+}
